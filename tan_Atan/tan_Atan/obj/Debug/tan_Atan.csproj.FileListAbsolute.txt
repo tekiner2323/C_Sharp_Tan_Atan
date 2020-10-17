@@ -1,0 +1,7 @@
+C:\Users\ErtugrulT\source\repos\tan_Atan\tan_Atan\bin\Debug\tan_Atan.exe.config
+C:\Users\ErtugrulT\source\repos\tan_Atan\tan_Atan\bin\Debug\tan_Atan.exe
+C:\Users\ErtugrulT\source\repos\tan_Atan\tan_Atan\bin\Debug\tan_Atan.pdb
+C:\Users\ErtugrulT\source\repos\tan_Atan\tan_Atan\obj\Debug\tan_Atan.csprojAssemblyReference.cache
+C:\Users\ErtugrulT\source\repos\tan_Atan\tan_Atan\obj\Debug\tan_Atan.csproj.CoreCompileInputs.cache
+C:\Users\ErtugrulT\source\repos\tan_Atan\tan_Atan\obj\Debug\tan_Atan.exe
+C:\Users\ErtugrulT\source\repos\tan_Atan\tan_Atan\obj\Debug\tan_Atan.pdb
